@@ -1,0 +1,1 @@
+DEBUG 2021-11-01 19:28:19,458 - POST https://discord.com/api/v7/channels/887370975526653962/messages with <aiohttp.formdata.FormData object at 0x7fd9b6b78610> has returned 200
